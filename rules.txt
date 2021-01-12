@@ -1,0 +1,3 @@
+Wcisnij literke, aby odgadnac slowo, za kazdy niepoprawny znak zostanie narysowany kolejny element wisielca. 
+Jezeli wygrasz, Twoj wynik w zaleznosci od poziomu trudnosci zostanie zapisany. 
+Powodzenia!
