@@ -24,9 +24,13 @@ Project that I realized is a game called "Hangman". The goal of the game is to g
 - Menu.h - header file, which has menu() function. It connects Menu.cpp with Hangman.cpp
 - Menu.cpp - source file, created mainly for moving in Menu. It has functions, which create menu and Enum classes to move by W and S, it also has openResultTable() function to read score file. OpenRules() function displays rules. Start option starts chooseLevel() function, where is startGame(std::string levelFileName) function (levelFileName depends on choose level by player.
 - Game.h - header file, which has startGame() function. It connects Game.cpp with Menu.cpp
-Game.cpp - source file, which has funtions that create the Hangman game. It reads words from hard.txt, medium.txt, easy.txt and save scores to result.txt. Drawing a part of hangman depends on number of mistake, which had been made. When player would guess the letter, it will appear in all correct places.
-Result.txt – text file with players and scores
-Rules.txt – text file with rules
-Easy.txt – text file with easy words
-Medium.txt – text file with medium words
-Hard.txt – text file with hard words
+- Game.cpp - source file, which has funtions that create the Hangman game. It reads words from hard.txt, medium.txt, easy.txt and save scores to result.txt. Drawing a part of hangman depends on number of mistake, which had been made. When player would guess the letter, it will appear in all correct places.
+- Result.txt – text file with players and scores
+- Rules.txt – text file with rules
+- Easy.txt – text file with easy words
+- Medium.txt – text file with medium words
+- Hard.txt – text file with hard words
+
+# 4. Summary
+Application can be expanded into graphic form to be more comfortable for players and look more clearer. 
+
