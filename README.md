@@ -3,7 +3,7 @@ Console game developed in C++.
 
 This project was created as a final project for studies.
 
-## Description
+## General Info
 Project that I realized is a game called "Hangman". The goal of the game is to guessing letters to find the word. Difficult of word depends on choose level.
 
 ## Assumptions
